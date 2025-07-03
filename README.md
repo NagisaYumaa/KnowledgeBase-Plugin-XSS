@@ -1,7 +1,7 @@
 # Proof of Concept – XSS Vulnerability in KnowledgeBase Plugin
 
-##CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N
-##6.4
+## CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N
+## 6.4
 
 ## Vulnerability Overview
 An authenticated attacker (with Contributor privileges or higher) can exploit a Stored Cross-Site Scripting (XSS) vulnerability in the Knowledge Base plugin for WordPress by injecting malicious shortcode content into the plugin's settings.
