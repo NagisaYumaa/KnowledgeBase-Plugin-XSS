@@ -1,4 +1,4 @@
-# Proof of Concept – XSS Vulnerability in KnowledgeBase Plugin
+# Proof of Concept – Knowledge Base <= 2.3.1 - Authenticated (Administrator+) Stored Cross-Site Scripting via Plugin Slug
 
 ## CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N ------- 6.4
 
