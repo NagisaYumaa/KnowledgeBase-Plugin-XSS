@@ -1,6 +1,6 @@
-# Proof of Concept – Knowledge Base <= 2.3.1 - Authenticated (Administrator+) Stored Cross-Site Scripting via Plugin Slug
+# Proof of Concept – CVE-2025-7431 Knowledge Base <= 2.3.1 - Authenticated (Administrator+) Stored Cross-Site Scripting via Plugin Slug
 
-## CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N ------- 6.4
+## CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:L/I:L/A:N ------- 4.4
 
 ## Vulnerability Overview
 An authenticated attacker Administrator can exploit a Stored Cross-Site Scripting (XSS) vulnerability in the Knowledge Base plugin for WordPress by injecting malicious shortcode content into the plugin's settings.
